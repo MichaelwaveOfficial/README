@@ -1,1 +1,3 @@
-# README
+* Java
+* SQL
+* Python
